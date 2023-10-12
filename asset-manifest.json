@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-test2/static/css/main.d87730bd.css",
+    "main.js": "/react-test2/static/js/main.bcba8427.js",
+    "static/js/787.9cc8c9e5.chunk.js": "/react-test2/static/js/787.9cc8c9e5.chunk.js",
+    "static/media/fries.png": "/react-test2/static/media/fries.4203cd6dfc1e5e55aeba.png",
+    "static/media/steak.png": "/react-test2/static/media/steak.83f6e73d4e1e99e1c2c9.png",
+    "static/media/salad.png": "/react-test2/static/media/salad.3e3b36e421c5061ffc33.png",
+    "static/media/background.webp": "/react-test2/static/media/background.04ff9849b410cce14b2b.webp",
+    "static/media/burger.png": "/react-test2/static/media/burger.6872ae0577067867ea55.png",
+    "static/media/icecream.png": "/react-test2/static/media/icecream.3a3b23bec76fc2fa62db.png",
+    "static/media/sprite.jpg": "/react-test2/static/media/sprite.182cca7990b3997fc010.jpg",
+    "index.html": "/react-test2/index.html",
+    "main.d87730bd.css.map": "/react-test2/static/css/main.d87730bd.css.map",
+    "main.bcba8427.js.map": "/react-test2/static/js/main.bcba8427.js.map",
+    "787.9cc8c9e5.chunk.js.map": "/react-test2/static/js/787.9cc8c9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d87730bd.css",
+    "static/js/main.bcba8427.js"
+  ]
+}
